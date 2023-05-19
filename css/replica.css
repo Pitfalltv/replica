@@ -1,3 +1,66 @@
+<<<<<<< HEAD
 .flex{
     color: blue;
 }
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'outfit', sans-serif;
+}
+form h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(247, 247, 250);
+
+}
+body{
+    width: 50%;
+    height: 35vh;
+    background-image: url(../imag-logo/bg-gradient.jpg);
+}
+header{
+    width: 25%;
+    left:37%;
+    margin: 0%;
+    background-color: rgb(32, 3, 59);
+    max-width: 1000px;
+    height: 0px;
+    position:relative;
+    top: -20%;
+    border: 0;
+    border-bottom: 20px;
+}
+div{
+
+
+@font-face
+    font-family: minha fonte;
+    src: url(Gilroy-light);
+}
+div{
+    color: white;
+}
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+form p{
+    background-color: white;
+    max-width: 500px;
+    padding: ;
+    text-align: center;
+    margin: 20px;
+}
+
+.inupt-single{
+    position: relative;
+    margin: 20px 0;
+}
+
+.inupt-single label{
+    left: 0;
+    bottom: 5px;
+}
+>>>>>>> a105d6e5313310f9a3e6499972ea84e84822d4a3
