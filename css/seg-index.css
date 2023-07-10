@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+.flex{
+    color: blue;
+}
+=======
 *{
     margin: 0;
     padding: 0;
@@ -58,3 +63,4 @@ form p{
     left: 0;
     bottom: 5px;
 }
+>>>>>>> a105d6e5313310f9a3e6499972ea84e84822d4a3
